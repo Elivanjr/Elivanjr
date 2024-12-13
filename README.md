@@ -1,8 +1,8 @@
-<h4 align="letf">Olá, meu nome é Elivan, sou um aluno do curso Bacharelado em Sistemas de Informação.</h4>
+<h4 align="right">Olá, meu nome é Elivan, sou um aluno do curso Bacharelado em Sistemas de Informação.</h4>
 
 ###
 
-<img align="left" height="150" src="https://i.gifer.com/7EJf.gif"  />
+<img align="left" height="100" src="https://i.gifer.com/7EJf.gif"  />
 
 ###
 
