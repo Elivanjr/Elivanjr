@@ -1,9 +1,7 @@
 <h4 align="right">Olá, meu nome é Elivan, sou um aluno do curso Bacharelado em Sistemas de Informação.</h4>
 
 
-<img align="left" height="150" src="https://media1.tenor.com/m/oaajVuH1mKIAAAAd/steins-gate-divergence-meter.gif"  />
-<img align="left" height="150" src="https://media1.tenor.com/m/oaajVuH1mKIAAAAd/steins-gate-divergence-meter.gif"  />
-
+<img align="left" height="150" src="https://media1.tenor.com/m/uA6ZjUhcDUUAAAAC/rintaro-okabe-steins-gate.gif"  />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
