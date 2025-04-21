@@ -2,6 +2,7 @@
 
 
 <img align="left" height="150" src="https://media1.tenor.com/m/oaajVuH1mKIAAAAd/steins-gate-divergence-meter.gif"  />
+<img align="left" height="150" src="https://media1.tenor.com/m/oaajVuH1mKIAAAAd/steins-gate-divergence-meter.gif"  />
 
 
 <div align="center">
