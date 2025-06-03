@@ -1,7 +1,6 @@
 <h4 align="right">Olá, meu nome é Elivan, sou um aluno do curso Bacharelado em Sistemas de Informação.</h4>
 
 
-<img align="left" height="150" src="https://media1.tenor.com/m/Ue7GEsspmqcAAAAC/chaos-head-chaos-world.gif" style="display:none;" />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
